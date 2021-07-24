@@ -4528,6 +4528,11 @@
     "address" "^1.0.1"
     "debug" "^2.6.0"
 
+"develop@^1.0.0":
+  "integrity" "sha1-STCc00OYiSO2U1z0VVzp9IBMfHE="
+  "resolved" "https://registry.npmjs.org/develop/-/develop-1.0.0.tgz"
+  "version" "1.0.0"
+
 "diff-sequences@^24.9.0":
   "integrity" "sha512-Dj6Wk3tWyTE+Fo1rW8v0Xhwk80um6yFYKbuAxc9c3EZxIHFDYwbi34Uk42u1CdnIiVorvt4RmlSDjIPyzGC2ew=="
   "resolved" "https://registry.npmjs.org/diff-sequences/-/diff-sequences-24.9.0.tgz"
@@ -12067,7 +12072,7 @@
     "source-list-map" "^2.0.0"
     "source-map" "~0.6.1"
 
-"webpack@^2.0.0 || ^3.0.0 || ^4.0.0", "webpack@^4.0.0", "webpack@^4.0.0 || ^5.0.0", "webpack@^4.36.0 || ^5.0.0", "webpack@^4.4.0", "webpack@>=2", "webpack@2 || 3 || 4", "webpack@4.42.0":
+"webpack@^2.0.0 || ^3.0.0 || ^4.0.0", "webpack@^4.0.0", "webpack@^4.0.0 || ^5.0.0", "webpack@^4.36.0 || ^5.0.0", "webpack@^4.4.0", "webpack@^4.42.0", "webpack@>=2", "webpack@2 || 3 || 4", "webpack@4.42.0":
   "integrity" "sha512-EzJRHvwQyBiYrYqhyjW9AqM90dE4+s1/XtCfn7uWg6cS72zH+2VPFAlsnW0+W0cDi0XRjNKUMoJtpSi50+Ph6w=="
   "resolved" "https://registry.npmjs.org/webpack/-/webpack-4.42.0.tgz"
   "version" "4.42.0"
